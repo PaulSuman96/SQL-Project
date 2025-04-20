@@ -1,5 +1,5 @@
 create database online_bookstore;
-use database online_bookstore;
+use  online_bookstore;
 
 -- Create Tables
 DROP TABLE IF EXISTS Books;
